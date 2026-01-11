@@ -5,6 +5,7 @@ I build apps using JavaScript, React, HTML & CSS. I’m focused on improving fro
 
 ## 🚀 Projects
 ### Visual Pipeline Builder
+Git: https://github.com/Jeconiah20/visual-pipeline-builder
 Short description: drag-and-drop pipeline builder built with React & FastAPI.
 
 ## 💻 Skills
