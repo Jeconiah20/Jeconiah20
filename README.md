@@ -14,5 +14,6 @@ JavaScript • React • CSS • HTML • Node.js • jQuery • Express.js • 
 ## 📫 Connect
 LinkedIn: https://www.linkedin.com/in/jeconiah-sontakke-2b8908311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+![Snake animation](https://github.com/Jeconiah20/Jeconiah20/blob/output/github-snake-dark.svg)
 
 
