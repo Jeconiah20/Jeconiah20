@@ -54,6 +54,4 @@ Developed using **React** and **FastAPI**, with a focus on performance, scalabil
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeconiah20/Jeconiah20/output/github-snake-dark.svg" />
-</p>
+![Snake animation](https://github.com/Jeconiah20/Jeconiah20/blob/output/github-snake.svg)
