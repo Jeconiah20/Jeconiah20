@@ -15,11 +15,10 @@ Hey, I'm Jeconiah!
 
 ## 🚀 Projects
 
-### 🔹 PipelineX
-An interactive pipeline builder that simplifies workflow creation through a drag-and-drop interface.  
-Developed using **React** and **FastAPI**, with a focus on performance, scalability, and clean API design.
+### 🔹 SoulSync 
+A calming journaling web application designed to help users reflect, track moods, and reconnect with themselves—gently, without pressure.
 
-**Project link**- https://piplinex-frontend.netlify.app
+**GitHub**- https://github.com/Jeconiah20/soulsync-app
 
 
 ## 🛠️ My Tech Stack
