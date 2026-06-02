@@ -5,7 +5,7 @@ Hey, I'm Jeconiah!
 
 </h1><p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E7F9A&center=true&width=435&lines=Hey%2C+I'm+Jeconiah;Full+Stack+Developer;Based+in+Delhi;Let's+Build+Something+Together" alt="Typing SVG" /> </a> </p>
 
-## 🧠 About
+##  About
 🎓 MCA student at Lovely Professional University (LPU)  
 💼 Full-Stack Developer  
 💻 I build web apps and love making them smarter with AI/ML  
@@ -13,31 +13,32 @@ Hey, I'm Jeconiah!
 ⚡ Fun fact: I enjoy giving my full-stack projects a brain using AI/ML
 
 
-## 🚀 Projects
+##  Projects
 
 ### 🔹 SoulSync 
 A calming journaling web application designed to help users reflect, track moods, and reconnect with themselves—gently, without pressure.
 
 **GitHub**- https://github.com/Jeconiah20/soulsync-app
+**Live link**- https://soulsync-app-ten.vercel.app/
 
 
-## 🛠️ My Tech Stack
-**🎨 Frontend**
+##  My Tech Stack
+**Frontend**
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" /> </a> </p>
 
-**⚙️ Backend**
+**Backend**
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </a> </p>
 
-**🗄️ Database**
+**Database**
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=postgresql" /> </a> </p>
 
-**🔧 Tools**
+**Tools**
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </a> </p>
 
-**☁️ DevOps & Deployment**
+**DevOps & Deployment**
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,docker,netlify" /> </a> </p>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jeconiah-sontakke-2b8908311">
@@ -51,6 +52,6 @@ A calming journaling web application designed to help users reflect, track moods
   </a>
 </p>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 ![Snake animation](https://github.com/Jeconiah20/Jeconiah20/blob/output/github-snake.svg)
