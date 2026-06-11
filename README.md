@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=Jeconiah20&label=Profile%20Views" />
 <h1 align="center">
 Hey, I'm Jeconiah!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 
 </h1><p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E7F9A&center=true&width=435&lines=Hey%2C+I'm+Jeconiah;Full+Stack+Developer;Based+in+Delhi;Let's+Build+Something+Together" alt="Typing SVG" /> </a> </p>
 
