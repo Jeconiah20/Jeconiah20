@@ -1,57 +1,69 @@
-<img src="https://komarev.com/ghpvc/?username=Jeconiah20&label=Profile%20Views" />
-<h1 align="center">
-Hey, I'm Jeconiah!
+# Jeconiah Sontakke
 
+I'm a developer who likes figuring things out by building them.
 
-</h1><p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E7F9A&center=true&width=435&lines=Hey%2C+I'm+Jeconiah;Full+Stack+Developer;Based+in+Delhi;Let's+Build+Something+Together" alt="Typing SVG" /> </a> </p>
+Sometimes that means solving a problem. Sometimes it means experimenting with an idea just to see where it goes. Either way, I enjoy the process of turning concepts into working software and understanding what happens under the hood.
 
-##  About
-🎓 MCA student at Lovely Professional University (LPU)  
-💼 Full-Stack Developer  
-💻 I build web apps and love making them smarter with AI/ML  
-🌱 Currently learning machine learning and experimenting with intelligent features  
-⚡ Fun fact: I enjoy giving my full-stack projects a brain using AI/ML
+Currently pursuing my MCA at Lovely Professional University.
 
+[LinkedIn](https://www.linkedin.com/in/jeconiah-sontakke-2b8908311) · [LeetCode](https://leetcode.com/u/Jeconiah/) · [Email](mailto:jeconiah2021@gmail.com)
 
-##  Projects
+---
 
-### 🔹 SoulSync 
-A calming journaling web application designed to help users reflect, track moods, and reconnect with themselves—gently, without pressure.
+### Things I've made
 
-**GitHub**- https://github.com/Jeconiah20/soulsync-app
-**Live link**- https://soulsync-app-ten.vercel.app/
+#### PipelineX — Making workflows visual.
 
+A drag-and-drop pipeline builder built with React Flow and FastAPI, designed to make building and validating workflows more intuitive.
 
-##  My Tech Stack
-**Frontend**
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" /> </a> </p>
+- Created 10 configurable node structures using React Flow.
+- Built a reusable `BaseNode` architecture, reducing code duplication by approximately 60%.
+- Implemented backend DAG validation to maintain data-flow integrity.
 
-**Backend**
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </a> </p>
+**Tech:** React · React Flow · FastAPI · Python
 
-**Database**
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=postgresql" /> </a> </p>
+[GitHub Repository](https://github.com/Jeconiah20/PipelineX)
 
-**Tools**
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </a> </p>
+#### SoulSync — A space to slow down.
 
-**DevOps & Deployment**
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,docker,netlify" /> </a> </p>
+A journaling app designed to make personal reflection easier through mood tracking, daily insights, and searchable journal history.
 
-## Connect With Me
+- Built full CRUD functionality for journal entries.
+- Integrated Supabase Authentication for user accounts.
+- Used PostgreSQL Row-Level Security (RLS) to protect user data.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jeconiah-sontakke-2b8908311">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:jeconiah2021@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://leetcode.com/u/Jeconiah/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" />
-  </a>
-</p>
+**Tech:** React · Vite · Supabase · PostgreSQL
 
-##  Contribution Snake
+[GitHub Repository](https://github.com/Jeconiah20/soulsync-app)
 
-![Snake animation](https://github.com/Jeconiah20/Jeconiah20/blob/output/github-snake.svg)
+---
+
+### The tools I build with
+
+**Languages**  
+JavaScript · Python · C · C++
+
+**Frontend**  
+React · Vite · React Flow · HTML5 · CSS3 · Tailwind CSS · Bootstrap
+
+**Backend & APIs**  
+Node.js · Express.js · FastAPI · REST APIs
+
+**Databases**  
+PostgreSQL · Supabase
+
+**Tools & Deployment**  
+Git · GitHub · Docker · Linux · Postman · Netlify · Render
+
+**Computer Science Fundamentals**  
+Data Structures & Algorithms · Object-Oriented Programming · Database Management Systems · Operating Systems
+
+---
+
+### Beyond the code
+
+I enjoy solving problems, experimenting with new ideas, and understanding how things work beneath the surface. Whether I'm building a project from scratch or exploring a technology I haven't used before, I like learning through hands-on work.
+
+For me, every project is a chance to solve something meaningful, challenge what I know, and come away a little better than before.
+
+*Building with purpose. Learning by exploring.*
